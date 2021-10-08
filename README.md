@@ -18,10 +18,8 @@ This is the place where I opensource stuff and break things :rofl:
 
   
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=arahimx&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+📊 &nbsp;**This week I spent my time on**  
+   <img src="https://wakatime.com/share/@arahimx/b952bdb6-2fff-4df4-b6ab-608af4acd699.svg">
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
