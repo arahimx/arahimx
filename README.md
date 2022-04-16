@@ -40,5 +40,4 @@ This is the place where I opensource stuff and break things :rofl:
 -  &nbsp;Github
 
 </details>
-  
- <img src="https://github-readme-stats.vercel.app/api?username=arahimx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&bg_color=00000000&text_color=777">
+
