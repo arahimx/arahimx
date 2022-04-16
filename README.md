@@ -16,14 +16,6 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://linkedin.com/in/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="arahimx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14501863/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="4214976" height="30" width="40" /></a>
 
-  
-<details>
- <summary><b>📊 &nbsp;This week I spent my time on </b></summary>  
-    <br/>
-  
-   <img src="https://wakatime.com/share/@arahimx/b952bdb6-2fff-4df4-b6ab-608af4acd699.svg" alt="arahimx" height="550" width="700" >
-</details>
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
