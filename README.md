@@ -15,6 +15,8 @@ This is the place where I opensource stuff and break things :rofl:
   <a href="https://developers.google.com/profile/u/107037036509600621052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" alt="arahimx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="arahimx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14501863/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/users/arahimx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="4214976" height="30" width="40" /></a>
+    
 
   
  &nbsp;<a href="https://www.c-sharpcorner.com/members/abdur-rahim15">
