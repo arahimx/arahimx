@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Check my profile summary [here](https://profile-summary-for-github.com/user/arahimx)
 
 
-[comment]: <> (arahimx)
+[//]: # (arahimx)
 
 
 https://profile-summary-for-github.com/user/arahimx
@@ -22,7 +22,8 @@ https://profile-summary-for-github.com/user/arahimx
 <a href="https://docs.microsoft.com/en-us/users/arahimx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="4214976" height="30" width="40" /></a>
     
 
-[comment]: <> (arahimx)
+
+[//]: # (arahimx)
   
  &nbsp;<a href="https://www.c-sharpcorner.com/members/abdur-rahim15">
 <img src="https://www.c-sharpcorner.com/members/abdur-rahim15/flair.png" width="260" height="58" alt="profile for Abdur C# Corner - A Social Community of Developers and Programmers" title="profile for Abdur at C# Corner - A Social Community of Developers and Programmers" />
@@ -50,4 +51,5 @@ https://profile-summary-for-github.com/user/arahimx
 </details>
 
 
-[comment]: <> (arahimx)
+
+[//]: # (arahimx)
