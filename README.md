@@ -10,8 +10,6 @@ This is the place where I opensource stuff and break things :rofl:
 [//]: # (arahimx)
 
 
-https://profile-summary-for-github.com/user/arahimx
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arahimx" height="30" width="40" /></a>
