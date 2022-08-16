@@ -4,7 +4,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Asp.net mvc, .NET
 - 📫 &nbsp;How to reach me: [@arahimx](http://twitter.com/arahimx)
-- 👨‍💻 &nbsp;Read more about my projects at [arahimx.live](http://www.arahimx.live)
 - 👨‍💻 &nbsp;Check my profile summary [here](https://profile-summary-for-github.com/user/arahimx)
 
 
