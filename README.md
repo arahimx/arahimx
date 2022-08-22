@@ -1,53 +1,45 @@
-### Hi there <a href="https://www.arahimx.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
+<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Asp.net mvc, .NET
-- 📫 &nbsp;How to reach me: [@arahimx](http://twitter.com/arahimx)
-- 👨‍💻 &nbsp;Check my profile's summary [here](https://profile-summary-for-github.com/user/arahimx)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arahimx&label=Profile%20views&color=0e75b6&style=flat" alt="arahimx" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arahimx" alt="arahimx" /></a> </p>
 
-[//]: # (arahimx)
+<p align="left"> <a href="https://twitter.com/arahimx" target="blank"><img src="https://img.shields.io/twitter/follow/arahimx?logo=twitter&style=for-the-badge" alt="arahimx" /></a> </p>
 
+- 🌱 I’m currently learning **React, Asp.net Core, MAUI, ML, AI**
 
-🔗 &nbsp;**Connect with me**
+- 👨‍💻 All of my projects are available at [github.com/arahimx](github.com/arahimx)
+
+- 💬 Ask me about **Asp.net, MVC, Entity Framework, SQL,**
+
+- 📫 How to reach me **arawan0316@gmail.com**
+
+- 📄 Know about my experiences [linktr.ee/arahimx](linktr.ee/arahimx)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arahimx" height="30" width="40" /></a>
-<a href="https://twitter.com/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="arahimx" height="30" width="40" /></a>
-  <a href="https://developers.google.com/profile/u/107037036509600621052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" alt="arahimx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="arahimx" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14501863/arahimx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://docs.microsoft.com/en-us/users/arahimx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="4214976" height="30" width="40" /></a>
-    
+<a href="https://dev.to/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arahimx" height="30" width="40" /></a>
+<a href="https://twitter.com/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arahimx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arahimx" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14501863/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14501863/arahimx" height="30" width="40" /></a>
+<a href="https://codesandbox.com/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arahimx" height="30" width="40" /></a>
+<a href="https://kaggle.com/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arahimx" height="30" width="40" /></a>
+<a href="https://fb.com/arahimx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arahimx" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[//]: # (arahimx)
-  
- &nbsp;<a href="https://www.c-sharpcorner.com/members/abdur-rahim15">
-<img src="https://www.c-sharpcorner.com/members/abdur-rahim15/flair.png" width="260" height="58" alt="profile for Abdur C# Corner - A Social Community of Developers and Programmers" title="profile for Abdur at C# Corner - A Social Community of Developers and Programmers" />
-</a> 
-  
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  
--  &nbsp;Asp.net MVC
--  &nbsp;.NET
--  &nbsp;C#
--  &nbsp;HTML
--  &nbsp;CSS
--  &nbsp;JS
--  &nbsp;VS 2019
--  &nbsp;VS Code
--  &nbsp;SQL Server
--  &nbsp;Github
--  &nbsp;SourceTree
--  &nbsp;Postman
--  &nbsp;Web Api
--  &nbsp;GItlab
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/arahimx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arahimx" /></a></p><br><br>
 
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arahimx&show_icons=true&locale=en&layout=compact" alt="arahimx" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arahimx&show_icons=true&locale=en" alt="arahimx" /></p>
 
-
-[//]: # (arahimx)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arahimx&" alt="arahimx" /></p>
