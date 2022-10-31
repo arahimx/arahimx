@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arawan0316@gmail.com**
 
-- 📄 Know about my experiences [linktr.ee/arahimx](linktr.ee/arahimx)
+- 📄 Know about my handles [linktr.ee/arahimx](linktr.ee/arahimx)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
