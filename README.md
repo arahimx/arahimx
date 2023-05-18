@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React, Asp.net Core, ML, AI**
 
-- 👨‍💻 All of my projects are available at [projects.arahimx.com](projects.arahimx.com)
+- 👨‍💻 All of my projects are available at [https://projects.arahimx.com](projects.arahimx.com)
 
 - 💬 Ask me about **Asp.net, MVC, Entity Framework, SQL,**
 
 - 📫 How to reach me **arawan0316@gmail.com**
 
-- 📄 Know about my handles [linktr.ee/arahimx](linktr.ee/arahimx)
+- 📄 Know about my handles [https://linktr.ee/arahimx](linktr.ee/arahimx)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
