@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Asp.net Core, ML, AI**
 
-- 👨‍💻 All of my projects are available at [github.com/arahimx](github.com/arahimx)
+- 👨‍💻 All of my projects are available at [projects.arahimx.com](projects.arahimx.com)
 
 - 💬 Ask me about **Asp.net, MVC, Entity Framework, SQL,**
 
