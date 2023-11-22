@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Asp.net, MVC, Entity Framework, SQL,**
 
-- 📫 How to reach me **arawan0316@gmail.com**
+- 📫 How to reach me **arahimx.dev@gmail.com**
 
 - 📄 Know about my handles [linktr.ee/arahimx](https://linktr.ee/arahimx)
 
