@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/arahimx" target="blank"><img src="https://img.shields.io/twitter/follow/arahimx?logo=twitter&style=for-the-badge" alt="arahimx" /></a> </p>
 
-- 🌱 I’m currently learning **React, Asp.net Core, ML, AI**
-
 - 👨‍💻 All of my projects are available at [projects.arahimx.com](https://projects.arahimx.com)
 
 - 💬 Ask me about **Asp.net, MVC, Entity Framework, SQL,**
