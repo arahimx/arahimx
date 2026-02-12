@@ -57,6 +57,5 @@
 ---
 
 ### 📫 Contact Me
-- Email: **arahimx.dev@gmail.com**  
 - Portfolio: [projects.arahimx.com](https://projects.arahimx.com)  
 - All profiles: [linktr.ee/arahimx](https://linktr.ee/arahimx)
