@@ -1,61 +1,78 @@
-<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h3 align="center">Full Stack Developer & Software Engineer from Saudi Arabia 🇸🇦</h3>
+<h1 align="center">Abdur Rahim</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arahimx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>Software Engineer</strong> · ASP.NET Core · High-Performance SQL · Enterprise Backend Systems<br />
+  <span>Riyadh, Saudi Arabia</span>
 </p>
 
-
-
-### 💻 About Me
-- I'm a Full Stack Developer passionate about **ASP.NET, MVC, Entity Framework, SQL, and React**.
-- I love **building clean, scalable, and high-performance web applications**.
-- I constantly explore **new technologies and best practices** to improve my workflow.
-
----
-
-### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" alt="SQL Server" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /> 
+  <a href="https://projects.arahimx.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/arahimx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/14501863/arahimx"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/arahimx"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" /></a>
+  <a href="https://twitter.com/arahimx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
-### 🌐 Social & Profiles
-<p align="center">
-  <a href="https://linkedin.com/in/arahimx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/arahimx" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/arahimx" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://stackoverflow.com/users/14501863/arahimx" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://github.com/arahimx" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+### Profile Overview
+
+Backend-focused Software Engineer designing and scaling enterprise platforms, municipal systems, and developer tooling within the **.NET ecosystem**. Experienced in building fault-tolerant REST APIs, national single sign-on (SSO) identity integrations, automated background pipelines, and fine-tuned database architectures in SQL Server.
+
+* **Core Focus:** ASP.NET Core, C#, EF Core, Dapper, SQL Server, System Architecture.
+* **Engineering Standard:** Clean modular design (N-Tier), defensive exception handling, and query performance optimization.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arahimx&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arahimx&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
+### Technical Capabilities
+
+| Domain | Stack & Tooling |
+| :--- | :--- |
+| **Languages** | `C#`, `SQL`, `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3` |
+| **Backend Frameworks** | `ASP.NET Core (6/8+)`, `Web API`, `ASP.NET MVC`, `LINQ` |
+| **Data & ORM** | `Entity Framework Core`, `Dapper`, `Microsoft SQL Server`, `MySQL` |
+| **Frontend & Integration** | `React`, `Redux`, `RESTful Web Services`, `JSON/XML APIs` |
+| **Architecture & Patterns** | `N-Tier Layered Architecture`, `Repository & Unit of Work`, `SOLID`, `OAuth2 / JWT / SSO` |
+| **DevOps & Infrastructure** | `Git`, `GitHub`, `IIS`, `Visual Studio`, `Postman`, `Windows Server` |
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arahimx&theme=radical" alt="GitHub Streak" />
-</p>
+### Featured Open-Source & Engineering Work
+
+#### 1. [Nafath.Net](https://github.com/arahimx/Nafath.Net)
+> Modern .NET SDK for seamless integration with Saudi Arabia's SDAIA National Single Sign-On (Nafath) platform.
+
+* **Impact:** Provides strongly-typed client abstractions, structured logging, and robust session validation for .NET 8+ enterprise services.
+* **Stack:** `C#`, `.NET 8+`, `ASP.NET Core`, `REST Client Architecture`
 
 ---
 
-### 📫 Contact Me
-- Portfolio: [projects.arahimx.com](https://projects.arahimx.com)  
-- All profiles: [linktr.ee/arahimx](https://linktr.ee/arahimx)
+#### 2. [BulkOperations](https://github.com/arahimx/BulkOperations)
+> High-performance Entity Framework Core extension for large-scale batch database operations.
+
+* **Impact:** Bypasses standard ORM change-tracker overhead to execute bulk inserts, updates, and deletes with minimal memory consumption.
+* **Stack:** `C#`, `.NET 8`, `Entity Framework Core`, `NuGet: BulkOperations.Package`
+
+---
+
+#### 3. [ASP.NET Core N-Tier Architecture Template](https://github.com/arahimx/ASP.NET-Core-6-MVC-N-Tier-Architecture-Project-Template)
+> Enterprise-ready architectural scaffold demonstrating clean separation of concerns and dependency isolation.
+
+* **Impact:** Provides decoupled abstractions across Core (domain logic), Infrastructure (data access), and Presentation layers for rapid solution bootstrap.
+* **Stack:** `ASP.NET Core MVC`, `EF Core`, `SQL Server`, `Clean Architecture`
+
+---
+
+#### 4. [FastiFire-Downloader](https://github.com/arahimx/FastiFire-Downloader)
+> Resilient multi-threaded internet download management client.
+
+* **Impact:** Lightweight desktop client leveraging protocol-level network optimizations for uninterrupted file streaming.
+* **Stack:** `C#`, `.NET`, `AltoHttps`
+
+---
+
+### Connect & Collaboration
+
+* **Portfolio:** [projects.arahimx.com](https://projects.arahimx.com)
+* **Hub:** [linktr.ee/arahimx](https://linktr.ee/arahimx)
+* **Inquiries:** Open to discussions on enterprise backend architecture, .NET performance optimization, and data-intensive platforms.
