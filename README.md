@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://arahimx.com/projects"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arahimx.com/projects"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/arahimx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/14501863/arahimx"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://dev.to/arahimx"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" /></a>
@@ -73,6 +73,6 @@ Backend-focused Software Engineer designing and scaling enterprise platforms, mu
 
 ### Connect & Collaboration
 
-* **Portfolio:** [https://arahimx.com/projects](https://https://arahimx.com/projects)
+* **Portfolio:** [https://arahimx.com/projects](https://arahimx.com/projects)
 * **Hub:** [linktr.ee/arahimx](https://linktr.ee/arahimx)
 * **Inquiries:** Open to discussions on enterprise backend architecture, .NET performance optimization, and data-intensive platforms.
