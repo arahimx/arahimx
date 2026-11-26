@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdur%20Rahim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Backend%20Engineer%20%E2%80%A2%20Riyadh%20%F0%9F%87%B8%F0%9F%87%A6&descAlignY=58&descSize=18" width="100%" alt="Abdur Rahim — Senior .NET Backend Engineer"/>
 
 <a href="https://arahimx.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Engineering+municipal+platforms+in+KSA;ASP.NET+Core+%E2%80%A2+SQL+Server+%E2%80%A2+GIS+%E2%80%A2+Hangfire;National+SSO%2C+RBAC+and+multi-tenant+security;Author+of+Nafath.Net+and+BulkOperations;From+spatial+SQL+to+production+go-live" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Building+enterprise-grade+.NET+platforms;Scalable+APIs+%E2%80%A2+Integrations+%E2%80%A2+Security;Clean+architecture+%E2%80%A2+High-performance+SQL;From+system+design+to+production+go-live;Author+of+Nafath.Net+and+BulkOperations" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -26,19 +26,38 @@
 public sealed class AbdurRahim : SeniorEngineer
 {
     public string Location   => "Riyadh, Saudi Arabia 🇸🇦";
-    public string Role       => "Senior .NET Backend Engineer @ Saudi Tech";
-    public string[] Focus    => ["ASP.NET Core APIs", "High-performance SQL", "GIS", "Integrations", "Security", "DevOps"];
+    public string Role       => "Senior .NET Backend Engineer";
+    public string[] Focus    => ["Enterprise architecture", "Scalable APIs", "System integration",
+                                 "Identity & security", "High-performance SQL", "DevOps"];
     public string[] Speaks   => ["English", "العربية", "اردو"];
     public string Building   => "ForEach — AI-powered job search automation";
     public string OpenTo     => "Senior backend / platform roles · GCC · Germany · Netherlands · Australia · UK";
 }
 ```
 
-- 🛣️ Lead backend developer on a **national pavement management platform**: GIS mapping, national SSO, RBAC and the production rollout
-- 🗺️ I enjoy **spatial SQL**: vector tiles, GeoJSON, and UTM → WGS84 reprojection in pure T-SQL
-- 🔐 Hardened APIs for a **formal cybersecurity assessment**: BOLA, multi-tenant isolation, rate limiting, audit logging
-- 🔄 Built **Hangfire integration pipelines** that sync road, distress and work-order data from municipal systems
-- 📦 Open-source author of **[Nafath.Net](https://github.com/arahimx/Nafath.Net)**, a .NET SDK for Saudi Arabia's Nafath national login, and **[BulkOperations](https://github.com/arahimx/BulkOperations)**, an EF Core bulk operations package on NuGet
+- 🏢 I design and build **enterprise-grade platforms** for government and large organizations, from architecture to production go-live
+- 🔐 **Identity & security:** national SSO (OIDC/JWT), RBAC, multi-tenant data isolation, BOLA protection, audit logging, cybersecurity assessments
+- 🔄 **Integration engineering:** background job pipelines, partner APIs, ticketing integrations and data sync across many organizations
+- ⚡ **Performance:** high-performance SQL, EF Core + Dapper, bulk data processing, load testing
+- ☁️ **Operations:** IIS / Windows Server, load balancing, SSL, offline deployments, observability with Grafana & Loki
+- 📦 Open-source author of **[Nafath.Net](https://github.com/arahimx/Nafath.Net)** and **[BulkOperations](https://github.com/arahimx/BulkOperations)**
+
+---
+
+## 🧭 How I build enterprise systems
+
+```mermaid
+flowchart LR
+    U[Web & mobile clients] --> G[WAF / Load balancer]
+    G --> A[ASP.NET Core API]
+    A --> S[SSO · RBAC · Rate limiting · Audit]
+    A --> B[Domain services<br/>Clean N-Tier]
+    B --> D[(SQL Server / Oracle)]
+    H[Hangfire jobs] --> B
+    H <--> X[External systems<br/>& partner APIs]
+    A -.-> O[Grafana · Loki · Health checks]
+    H -.-> O
+```
 
 ---
 
@@ -49,13 +68,12 @@ public sealed class AbdurRahim : SeniorEngineer
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css&theme=dark" alt="Languages"/>
 
-**Data & GIS**<br/>
+**Data**<br/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20Tiles-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS%20%2F%20GIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
 
 **Frameworks & libraries**<br/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -83,6 +101,7 @@ public sealed class AbdurRahim : SeniorEngineer
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" alt="Tools"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
 
@@ -118,57 +137,60 @@ public sealed class AbdurRahim : SeniorEngineer
 
 ---
 
-## 🚀 Professional work
+## 🏢 Enterprise platforms I've built
 
-<sub>Built at Saudi Tech. The code is private; these are summaries.</sub>
+<sub>Private codebases. These are summaries only.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛣️ Pavement Management Platform
-*Government · .NET 9 · SQL Server · GIS*
+### 🏛️ Government Asset & Maintenance Management Platform
+*.NET 9 · ASP.NET Core · SQL Server · Hangfire*
 
-A national platform for road condition surveys, PCI/IRI scoring, maintenance planning and contractor work orders.
+A multi-tenant enterprise platform that regional municipalities use to manage infrastructure assets, inspections, maintenance planning, budgets and contractor work orders.
 
-- Spatial SQL + vector-tile GIS map
-- National SSO across staging and production
-- RBAC, BOLA and per-municipality data isolation
-- Staging → secured production go-live
+- Modular N-Tier architecture with clean service boundaries
+- National SSO, role-based permissions and per-tenant data isolation
+- End-to-end workflows: work orders, contractors, budgets, approvals
+- Bulk Excel import with validation, error reports and rollback
+- Reporting, dashboards and map visualization
+- Led the production rollout: load balancing, SSL, monitoring and runbooks
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Municipal Integration Engine
-*Hangfire · EF Core · Dapper*
+### 🔄 Enterprise Integration Engine
+*Hangfire · EF Core · Dapper · REST*
 
-Scheduled and on-demand jobs that sync road network, distress, survey and work-order data from regional municipalities.
+A central service that connects the platform to external organizations and systems.
 
-- Full and incremental sync
-- Per-municipality configuration
-- Secured job dashboard and history
+- Scheduled and on-demand sync jobs
+- Full and incremental synchronization per organization
+- Partner-facing REST APIs and ticketing-system integration
+- Secured job dashboard, history and retries
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ SQL Server → Oracle GIS Migration
-*SSIS · C# Script Components*
+### 🗄️ Cross-Database Data Migration
+*SSIS · C# · SQL Server → Oracle*
 
-Moves 12+ GIS tables (regions, districts, road centerlines, lanes, intersections) to Oracle.
+A repeatable pipeline that moves 12+ large tables between database platforms.
 
-- Geometry as WKB
-- MERGE upserts
-- Changed rows only (incremental)
+- MERGE-based upserts
+- Changed-rows-only incremental sync
+- Batch logging and gap detection
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Survey Analytics Dashboard
+### 📊 Analytics & Reporting Dashboard
 *ASP.NET Core MVC · Oracle · ApexCharts*
 
-Road survey and AI survey results on an interactive map, with analytics, charts and export, built from day one.
+An internal analytics product with authentication, interactive dashboards, charts, map views and data export. I built it from an empty repository.
 
 </td>
 </tr>
@@ -217,7 +239,7 @@ Road survey and AI survey results on an interactive map, with analytics, charts 
 ## 🎓 Credentials
 
 - 🎓 **B.Sc. Software Engineering**, NUML Islamabad (2022)
-- 🏛️ **Member**, Saudi Council of Engineers
+- 🏛️ **Certified**, Saudi Council of Engineers
 - ✅ **Certified**, NCEAC, Pakistan (2023)
 
 ---
@@ -226,7 +248,7 @@ Road survey and AI survey results on an interactive map, with analytics, charts 
 
 ### 🤝 Let's build something solid
 
-Open to **senior backend / platform engineering** roles and to talks about .NET performance, data-heavy platforms and GIS.
+Open to **senior backend / platform engineering** roles and to talks about enterprise architecture, .NET performance and system integration.
 
 <a href="https://arahimx.com"><img src="https://img.shields.io/badge/Visit-arahimx.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linktr.ee/arahimx"><img src="https://img.shields.io/badge/All%20links-linktr.ee-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
