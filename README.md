@@ -48,15 +48,49 @@ public sealed class AbdurRahim : SeniorEngineer
 
 ```mermaid
 flowchart LR
-    U[Web & mobile clients] --> G[WAF / Load balancer]
-    G --> A[ASP.NET Core API]
-    A --> S[SSO · RBAC · Rate limiting · Audit]
-    A --> B[Domain services<br/>Clean N-Tier]
-    B --> D[(SQL Server / Oracle)]
-    H[Hangfire jobs] --> B
-    H <--> X[External systems<br/>& partner APIs]
-    A -.-> O[Grafana · Loki · Health checks]
-    H -.-> O
+    C["Clients - SPA, mobile, partner systems"] --> E
+
+    subgraph EDGE["Edge layer"]
+        E["L7 load balancer and WAF"] --> T["TLS termination and reverse proxy"]
+    end
+
+    subgraph API["API layer - ASP.NET Core"]
+        M["Middleware pipeline"] --> N["AuthN - OIDC SSO and JWT"]
+        N --> Z["AuthZ - policy-based RBAC"]
+        Z --> R["Rate limiting and input validation"]
+        R --> TI["Tenant isolation and BOLA guards"]
+    end
+
+    subgraph APP["Application layer - N-Tier"]
+        SV["Application services"] --> DM["Domain logic and DTO mapping"]
+        DM --> RP["Repository and Unit of Work"]
+    end
+
+    subgraph DATA["Data layer"]
+        ORM["EF Core and Dapper"] --> DB[("Relational databases - SQL Server, Oracle")]
+        SP["Stored procedures and spatial queries"] --> DB
+    end
+
+    subgraph ASYNC["Async processing"]
+        W["Background workers - Hangfire"] --> J["Recurring and on-demand jobs with retries"]
+        J --> ETL["ETL and incremental sync"]
+    end
+
+    subgraph OBS["Observability"]
+        L["Structured logging - Serilog"] --> LA["Log aggregation - Loki"]
+        LA --> G["Dashboards and alerts - Grafana"]
+        HP["Health probes"] --> G
+    end
+
+    T --> M
+    TI --> SV
+    RP --> ORM
+    RP --> SP
+    W --> SV
+    ETL <--> X["External REST APIs and third-party data sources"]
+    API -.-> L
+    ASYNC -.-> L
+    API -.-> HP
 ```
 
 ---
